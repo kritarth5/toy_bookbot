@@ -1,3 +1,3 @@
-# toy_bookbot
+# bookbot
 
-This is a dummy github project from boot.dev
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
